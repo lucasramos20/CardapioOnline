@@ -1,0 +1,9 @@
+> git remote add origin https://github.com/lucasramos20/CardapioOnline.git
+> git pull origin main
+> git status
+> git commit -m "commit"
+> git push -u origin main
+
+> git status //Confirmar envio
+
+=======================================================
